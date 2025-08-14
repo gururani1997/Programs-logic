@@ -3,5 +3,5 @@
 ## Programs to performed on machine round 
 
 
-#Author - Pankaj Gururani 
+## Author - Pankaj Gururani 
 # Stay Happy write code improve yourself
